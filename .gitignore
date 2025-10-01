@@ -1,2 +1,5 @@
 *
 !.gitignore
+!assignment12/
+!*.py
+!*.txt
